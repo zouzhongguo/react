@@ -1,0 +1,39 @@
+{
+  "pageData": {
+    "itemName": "交通工具",
+    "itemPathName": "bicycle",
+    "itemPageTitle": "【转转】58同城二手交易平台,同城交易",
+    "itemKeywords": "自行车,交通工具",
+    "itemDescription": "58同城“转转”为二手买卖双方提供快人一步的闲置交易平台,担保交易,微信支付,30秒发布,3天出手,让您随时随地买个便宜,下载转转APP,快速出手赚的更多!转转官方客服请联系微信公众号,转转暂未开通客服电话,请不要相信假冒转转的客服电话。"
+  },
+  "goodsData": [
+    {
+      "name": "",
+      "userNickname": "",
+      "picUrl": "",
+      "userAvatarUrl": "",
+      "price": "",
+      "originPrice": ""
+    },
+    {
+      "name": "",
+      "userNickname": "",
+      "picUrl": "",
+      "userAvatarUrl": "",
+      "price": "",
+      "originPrice": ""
+    }
+  ],
+  "subItems": [
+    {
+      "id": 0,
+      "name": "a",
+      "url": "b"
+    },
+    {
+      "id": 1,
+      "name": "c",
+      "url": "d"
+    }
+  ]
+}

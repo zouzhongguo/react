@@ -1,0 +1,68 @@
+{
+  "pageData": {
+    "itemName": "交通工具",
+    "itemPathName": "bicycle",
+    "itemPageTitle": "【转转】58同城二手交易平台,同城交易",
+    "itemKeywords": "自行车,交通工具",
+    "itemDescription": "58同城“转转”为二手买卖双方提供快人一步的闲置交易平台,担保交易,微信支付,30秒发布,3天出手,让您随时随地买个便宜,下载转转APP,快速出手赚的更多!转转官方客服请联系微信公众号,转转暂未开通客服电话,请不要相信假冒转转的客服电话。"
+  },
+  "goodsData": [
+    {
+      "name": "原厂嘉凌本田70一摩托车",
+      "userNickname": "悟太极51578227",
+      "picUrl": "http://pic4.58cdn.com.cn/zhuanzh/n_v1bl2lwkd7xy7vqwm4j5ga_200_200.jpg",
+      "userAvatarUrl": "http://img.58cdn.com.cn/zhuanzhuan/headimg/listing-default-protrait.png",
+      "price": "1188",
+      "originPrice": "6450"
+    },
+    {
+      "name": "原厂嘉凌本田70一摩托车",
+      "userNickname": "悟太极51578227",
+      "picUrl": "http://pic4.58cdn.com.cn/zhuanzh/n_v1bl2lwkd7xy7vqwm4j5ga_200_200.jpg",
+      "userAvatarUrl": "http://img.58cdn.com.cn/zhuanzhuan/headimg/listing-default-protrait.png",
+      "price": "1188",
+      "originPrice": "6450"
+    },
+    {
+      "name": "原厂嘉凌本田70一摩托车",
+      "userNickname": "悟太极51578227",
+      "picUrl": "http://pic4.58cdn.com.cn/zhuanzh/n_v1bl2lwkd7xy7vqwm4j5ga_200_200.jpg",
+      "userAvatarUrl": "http://img.58cdn.com.cn/zhuanzhuan/headimg/listing-default-protrait.png",
+      "price": "1188",
+      "originPrice": "6450"
+    },
+    {
+      "name": "原厂嘉凌本田70一摩托车",
+      "userNickname": "悟太极51578227",
+      "picUrl": "http://pic4.58cdn.com.cn/zhuanzh/n_v1bl2lwkd7xy7vqwm4j5ga_200_200.jpg",
+      "userAvatarUrl": "http://img.58cdn.com.cn/zhuanzhuan/headimg/listing-default-protrait.png",
+      "price": "1188",
+      "originPrice": "6450"
+    },
+    {
+      "name": "原厂嘉凌本田70一摩托车",
+      "userNickname": "悟太极51578227",
+      "picUrl": "http://pic4.58cdn.com.cn/zhuanzh/n_v1bl2lwkd7xy7vqwm4j5ga_200_200.jpg",
+      "userAvatarUrl": "http://img.58cdn.com.cn/zhuanzhuan/headimg/listing-default-protrait.png",
+      "price": "1188",
+      "originPrice": "6450"
+    }
+  ],
+  "subItems": [
+    {
+      "id": 0,
+      "name": "摩托车",
+      "url": "http://bj.58.com/danche/?zz=zz"
+    },
+    {
+      "id": 1,
+      "name": "电动车",
+      "url": "http://bj.58.com/diandongche/?zz=zz"
+    },
+    {
+      "id": 2,
+      "name": "自行车",
+      "url": "http://bj.58.com/zixingche/?zz=zz"
+    }
+  ]
+}

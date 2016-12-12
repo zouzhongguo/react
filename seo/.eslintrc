@@ -1,0 +1,8 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "comma-dangle": 2, // disallow or enforce trailing commas
+    "no-cond-assign": 2,
+    "indent": [2, 2, {"VariableDeclarator": {"var": 2, "let": 2, "const": 2}}]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "status": "0",
+  "respData": {
+    "list": [
+      {
+        "id": "1",
+        "itemName": "交通工具",
+        "itemPath": "bicycle"
+      },
+      {
+        "id": "2",
+        "itemName": "母婴用品",
+        "itemPath": "babymum"
+      },
+      {
+        "id": "3",
+        "itemName": "数码产品",
+        "itemPath": "shuma"
+      },
+      {
+        "id": "4",
+        "itemName": "交通工具",
+        "itemPath": "bicycle"
+      },
+      {
+        "id": "5",
+        "itemName": "母婴用品",
+        "itemPath": "babymum"
+      },
+      {
+        "id": "6",
+        "itemName": "数码产品",
+        "itemPath": "shuma"
+      }
+    ]
+  }
+}
